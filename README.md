@@ -2,7 +2,7 @@
 ## Description
 C++ templates for reading and writing a specific type of data in normal or reverse byte order. \
 Can be used to convert from Little Endian to Big Endian or vice versa.\
-Check out [test1.cpp][test1.cpp] for how to use it.\
+Check out [test1.cpp](test1.cpp) for how to use it.\
 You can simply use `make` command to compile the test code, or use g++/your c++ compiler.
 
 ## What is it for?
